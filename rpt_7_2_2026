@@ -4,6 +4,8 @@ DONE:
 
 IN PROGRESS:
 - Second single config job running ( changes made to AdiSample.json5 )
+- Three new ablation configs setup and ready to submit as jobs
+  - Will analyze them and create a presentation. 
 
 PLANNED:
 - Analysis of Ablation and first single config study
