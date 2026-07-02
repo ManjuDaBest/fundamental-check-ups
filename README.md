@@ -1,6 +1,10 @@
 # fundamental-check-ups
 Here is a repo where I will place all of my achievements and studies in the Fundamental AI organization.
 
+HOW TO RUN CONFIGS : 
+- Single Job : python train_launcher.py [relative path]
+- Ablation Study : python ablation_study [relative_path]
+
 FINAL CONFIG : includes all default values of parameters that are used in a model.
 
 OVERALL CURRICULUM : CONFIG --> TRAIN --> SFT --> TALENT EVALUATION
