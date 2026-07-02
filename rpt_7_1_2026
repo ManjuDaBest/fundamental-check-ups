@@ -1,0 +1,15 @@
+DONE:
+- Tested sample configs for both single jobs and ablation jobs.    
+  - python train_launcher.py examples/train_ARITH.sconfig    
+  - python ablation_study.py configs/sudha/relu2_activation/ARITH_0.5_relu2.json5    
+  - configs/sudha/recipe/recipe_builder_step.json5
+
+IN PROGRESS:
+- Created my own single job config --> sent and working on dashboard.    
+  - The model is at around 170k iterations.     
+  - There was a significant regression that required intervention, but the model recovered afterward.
+- AdiSample.json5 was the file used in the experiment.
+
+PLANNED:
+- Creating new repo which will showcase daily updates about current jobs.
+- Will perform a new ablation study which will compare multiple models at once.
