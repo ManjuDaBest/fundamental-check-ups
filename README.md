@@ -3,7 +3,7 @@ Here is a repo where I will place all of my achievements and studies in the Fund
 
 HOW TO RUN CONFIGS : 
 - Single Job : python train_launcher.py [relative path]
-- Ablation Study : python ablation_study [relative_path]
+- Ablation Study : python ablation_study.py [relative_path]
 
 FINAL CONFIG : includes all default values of parameters that are used in a model.
 
