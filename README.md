@@ -13,11 +13,11 @@ GIT BASICS :
 
 Create a new branch on terminal:
 
-1.) git checkout -b [new_branch name]
-2.) git status
-3.) git add [file_name]
-4.) git commit -m “”
-5.) git push origin [branch_name]
+1.) git checkout -b [new_branch name] \
+2.) git status \
+3.) git add [file_name] \
+4.) git commit -m “” \
+5.) git push origin [branch_name] \
 
 Overall, use git status to always look for changes that have been made to files.
 
