@@ -28,15 +28,15 @@ OVERALL GOAL :
 
 SCORES : 
 - Syntax Score: format of the whole coversation
-    reverse string: YulRU8Bf ? fB8URluY
-    type(Q) = string?
-    type(A) = string? 
-    Q ? A   ->      If yes syntax score =1.0
+    \ reverse string: YulRU8Bf ? fB8URluY
+    \ type(Q) = string?
+    \ type(A) = string? 
+    \ Q ? A   ->      If yes syntax score =1.0
 - Semantic Score: correct answer
-	  reverse string: YulRU8Bf ? fB8URluY
-    type(Q) = string?
-    type(A) = string? 
-    Reverse(Q) = A   If yes syntax score =1.0
+	\ reverse string: YulRU8Bf ? fB8URluY
+    \ type(Q) = string?
+    \ type(A) = string? 
+    \ Reverse(Q) = A   If yes syntax score =1.0
 
 Overall : average of (semantic, syntax, talents_1,... talent_n )
 
