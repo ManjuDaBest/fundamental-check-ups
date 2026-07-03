@@ -1,0 +1,12 @@
+DONE:
+- Second single config job running ( changes made to AdiSample.json5 )
+- Three new ablation configs setup and ready to submit as jobs
+  - Adi_success_ablation
+  - Adi_mastery_ablation
+  - Adi_blend_ablation
+
+IN PROGRESS:
+  - Will analyze all three new ablation configs and create a presentation. 
+
+PLANNED:
+- 
