@@ -27,16 +27,16 @@ OVERALL GOAL :
 - Get the best overall score possible from a config.
 
 SCORES : 
-- Syntax Score: format of the whole coversation
-    \ reverse string: YulRU8Bf ? fB8URluY
-    \ type(Q) = string?
-    \ type(A) = string? 
-    \ Q ? A   ->      If yes syntax score =1.0
-- Semantic Score: correct answer
-	\ reverse string: YulRU8Bf ? fB8URluY
-    \ type(Q) = string?
-    \ type(A) = string? 
-    \ Reverse(Q) = A   If yes syntax score =1.0
+- Syntax Score: format of the whole coversation \
+  	reverse string: YulRU8Bf ? fB8URluY \
+    type(Q) = string? \
+    type(A) = string? \
+    Q ? A   ->      If yes syntax score =1.0
+- Semantic Score: correct answer \
+  	reverse string: YulRU8Bf ? fB8URluY \
+    type(Q) = string? \ 
+    type(A) = string? \ 
+    Reverse(Q) = A   If yes syntax score =1.0
 
 Overall : average of (semantic, syntax, talents_1,... talent_n )
 
