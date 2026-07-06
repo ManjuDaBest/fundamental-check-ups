@@ -42,4 +42,8 @@ Overall : average of (semantic, syntax, talents_1,... talent_n )
 
 BLENDS : will stay as 3 for all configs that are submitted.
 
+success_floor will be removed as a hyperparameter.
+
+Always keep three seeds for every config.
+
 
