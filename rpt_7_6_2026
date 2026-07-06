@@ -1,0 +1,16 @@
+DONE:
+- Three new ablation configs setup and ready to submit as jobs
+  - Adi_success_ablation
+  - Adi_mastery_ablation
+  - Adi_blend_ablation
+- Added new extension where I can start runs from VSCode itself. 
+
+IN PROGRESS:
+- New config from mastery_ablation to have [0.6, 0.7, 0.8, 0.9]
+- New config for delta_weight and mastery_weight where they add up to 1.
+- NOTE : Always state three different seeds for every new config.
+
+PLANNED:
+- Once mastery_confirm test is done, will analyze.
+- Once weight ablation finishes, will analyze. 
+- 
