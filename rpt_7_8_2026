@@ -1,0 +1,17 @@
+DONE:
+- New configs for String talents
+  - Adi_string_r1_narrow.json5 ( Mastery threshold : [0.88, 0.9, 0.93] )
+  - Adi_string_r1_wide.json5 ( Mastery threshold : [0.6, 0.7, 0.8, 0.9] )
+  - Adi_string_r2.json5
+- TALENTS:
+  - "leq_1_extra_char"
+  - "long_string_reverse"
+  - "medium_string_reverse"
+
+IN PROGRESS:
+- Created presentation for ARITH config analysis
+- Restarting String configs
+
+PLANNED:
+- Continuing on analysis now on String configs
+- Continuing to use Dashboard AI 
