@@ -1,0 +1,14 @@
+DONE:
+- Created presentation for ARITH config analysis
+- Restarting String configs
+
+IN PROGRESS:
+- Removed values that should be defaults in config
+- Changed all following configs to have no eval_interval, grad_clip, batch_size and the ENTIRE rl section
+- Reduced mastery_threshold from 0.93 to 0.9 and increased both prompts_sampling interval and sampling_interval to from 1000 to 2000.
+- Added prompts_sampling_interval for few documents which had that value missing, default might be different
+- Created presentation for Ashok about how to start fixing up Dashboard AI model.
+
+PLANNED:
+- Continuing on analysis now on String configs
+- Continuing to use Dashboard AI
