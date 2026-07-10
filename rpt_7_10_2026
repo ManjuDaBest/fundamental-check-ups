@@ -1,0 +1,19 @@
+DONE: 
+- Removed values that should be defaults in config
+- Changed all following configs to have no eval_interval, grad_clip, batch_size and the ENTIRE rl section
+- Reduced mastery_threshold from 0.93 to 0.9 and increased both prompts_sampling interval and sampling_interval to from 1000 to 2000.
+- Added prompts_sampling_interval for few documents which had that value missing, default might be different
+- Created presentation for Ashok about how to start fixing up Dashboard AI model.
+
+IN PROGRESS:
+- Created new branch named am_recipe_ablation_configs
+- 4 new ablation configs
+  - Adi_string_r1_max_blend_iterations.json5
+  - Adi_string_r1_minimum_blends.json5
+  - Adi_string_r1_success_retention_lambda.json5
+  - Adi_string_r1_success_weights.json5
+
+PLANNED:
+- Continuing on analysis now on String configs
+- Continuing to use Dashboard AI
+- Will create presentations once new ablations are done with analysis
