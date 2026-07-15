@@ -1,0 +1,13 @@
+DONE: 
+- Edited String configs from DONE section and reran them
+- Created new optimized ablation config for round 1 and round 2 configs
+- Created presentation about recent String configs
+
+IN PROGRESS:
+- Running recipe round 1 config for ARITH talents
+- Running recipe round 2 config for ARITH + String talents
+- Will analyze after these small runs complete
+
+PLANNED:
+- Continuing on analysis now on String configs
+- Continuing to use Dashboard AI
