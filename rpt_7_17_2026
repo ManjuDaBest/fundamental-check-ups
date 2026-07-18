@@ -1,0 +1,12 @@
+DONE:
+- Pull request for am_recipe_ablation_configs
+- Currently running optimal configs based off analysis
+  - Mainly testing very short to normal blend iteration amounts
+
+IN PROGRESS:
+- Created new branch named am_config_optimization
+  - To present closer analysis studies and optimizations of future studies
+
+PLANNED:
+- Continuing on analysis now on String configs
+- Continuing to use Dashboard AI
