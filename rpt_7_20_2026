@@ -1,0 +1,15 @@
+DONE:
+- 3 new test for configs which will test for varying iteration counts
+  - 20-30k iterations
+  - 30-40k iterations
+  - 40-50k iterations
+- Will try to reduce iterations as much as possible while not allowing too high reductions of accuracy
+
+IN PROGRESS:
+- New configs for both Round 1 and Round 2 which assess minimum blends, success retention lambda, and success weights
+- New configs for sft studies, analysis will be done on them shortly
+- Made changes to all following configs to remove certain constants which are different from defaults
+
+PLANNED:
+- Continuing on analysis now on Round 1 and Round 2 configs
+- Continuing to use Dashboard AI
